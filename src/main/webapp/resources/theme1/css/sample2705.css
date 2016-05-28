@@ -1,0 +1,39 @@
+table{
+	text-align: left;
+	border-collapse: separate;
+	border: 1px solid #ddd;
+	border-spacing: 10px;
+	border-radius: 3px;
+	background: #fdfdfd;
+	font-size: 14px;
+	width: auto;
+	width: 100%;
+	padding: 0px 20px 0px 20px;
+}
+td,th{
+	vertical-align: top;
+	border: 1px solid #ddd;
+	padding: 5px;
+	border-radius: 3px;
+	height:20px;
+	font-weight: 600;
+}
+th{
+	background: #9DA4F7;
+	text-align: center;
+	color: white;
+}
+caption{
+	font-style: italic;
+	text-align: right;
+	color: #547901;
+}
+td.noBorder,.formTable{
+	border: none;
+}
+
+.error{
+	color:red;'
+}
+
+
